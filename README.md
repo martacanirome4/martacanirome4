@@ -76,20 +76,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/martacanirome4/martacanirome4/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/1137579380?si=1310a7fac33d425e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/1137579380?si=1310a7fac33d425e&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/martacanirome4/count.svg?"  />
 </div>
