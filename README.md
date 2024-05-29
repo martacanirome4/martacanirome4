@@ -1,4 +1,4 @@
-# Hi there!
+#👋 Hi there!
 <br>I'm Marta, a passionate Computer Engineering student from Spain 💫<br><br>
 🔭 I’m currently working on a music API<br>🤝 I’m looking to expand my experience and knowledge<br>🌱 I’m currently learning AWS<br>
 
