@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **martacaninoromero@gmail.com**
 
-<h3 align="left">Connect with me:</h3
-
 ###
 
 <div align="left">
@@ -81,6 +79,8 @@
 </div>
 
 ###
+
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/martacanino/" target="_blank">
