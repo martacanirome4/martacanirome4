@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marta and I'm a Computer Engineering student, from Spain</h2>
+<h2 align="left">Hi 👋! My name is Marta, I'm a Computer Engineering student from Spain</h2>
 
 ###
 
@@ -95,10 +95,3 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
