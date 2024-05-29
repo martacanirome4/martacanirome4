@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Engineering student from Spain :)</p>
+<p align="left">I'm a passionate Computer Engineering student from Spain</p>
 
 ###
 
