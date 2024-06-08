@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marta</h2>
+<h2 align="left">Hi 🚀! My name is Marta</h2>
 
 ###
 
@@ -6,11 +6,12 @@
 
 ###
 
-- 🔭 I’m currently working on [a music API](https://github.com/martacanirome4/API_REST_SWII)
+- 🔭 I’m currently working on [a music API]
+  (https://github.com/martacanirome4/MusicHub)
 
 - 🌱 I’m also currently learning **AWS**
 
-- 📫 How to reach me **martacaninoromero@gmail.com**
+- 📫 How to reach me: **martacaninoromero@gmail.com**
 
 ###
 
