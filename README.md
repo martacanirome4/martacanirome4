@@ -1,14 +1,8 @@
-<h2 align="left">Hi there! I'm Marta</h2>
+<h2 align="left">Hi there! I'm Marta ⭐️ </h2>
 
 ###
 
-<p align="left">I'm a passionate Computer Engineering student from Spain</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martacanirome4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">I'm a passionate Computer Engineering student from Spain 🚀 🇪🇸 </p>
 
 ###
 
@@ -64,6 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martacanirome4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
