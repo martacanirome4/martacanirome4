@@ -1,17 +1,8 @@
-<h2 align="left">Hi 🚀! My name is Marta</h2>
+<h2 align="left">Hi there! My name is Marta</h2>
 
 ###
 
 <p align="left">I'm a passionate Computer Engineering student from Spain</p>
-
-###
-
-- 🔭 I’m currently working on [a music API]
-  (https://github.com/martacanirome4/MusicHub)
-
-- 🌱 I’m also currently learning **AWS**
-
-- 📫 How to reach me: **martacaninoromero@gmail.com**
 
 ###
 
