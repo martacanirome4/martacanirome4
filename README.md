@@ -1,8 +1,6 @@
 <h2 align="left">Hi there! I'm Marta ⭐️ </h2>
 
-###
-
-<p align="left">I'm a passionate Computer Engineering student from Spain 🚀 🇪🇸 </p>
+<p align="left">I'm an Information Systems Engineer student from Spain</p>
 
 ###
 
@@ -75,9 +73,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martacanirome4&label=Profile%20views&color=0e75b6&style=flat" alt="martacanirome4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martacanirome4" alt="martacanirome4" /></a> </p>
