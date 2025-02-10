@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif"  />
+<!--img align="right" height="150" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif"  /-->
 
 ###
 
@@ -46,9 +46,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/martacanirome4/martacanirome4/output/snake.svg" alt="Snake animation" />
-
-###
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2WQ09wqQBIOor7Q0VpIDBK?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
