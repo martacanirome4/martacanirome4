@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
 </div>
+</br>
 
 Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML** (¡abajo te cuento más!).
 
