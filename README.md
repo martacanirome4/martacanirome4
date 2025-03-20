@@ -71,10 +71,3 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 🐾 Fun fact
-
-> “Picar código y picar setas... ¡siempre con precaución!” 🍄💻  
-> “Y si la materia oscura no se detecta, ¡al menos se intenta!” 🌌😄
