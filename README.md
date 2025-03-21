@@ -7,7 +7,7 @@
 </div>
 </br>
 
-Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML** (¡abajo te cuento más!).
+Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**.
 
 ---
 
@@ -17,8 +17,6 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 → Identificación de fuentes no clasificadas (UNIDs) como posibles candidatos a materia oscura usando **ML supervisado + detección de anomalías**.  
 → Dataset: **NASA Fermi-LAT**. Temas: **ciencia de datos, astrofísica, ML, Python**.  
 🔗 [Ver proyecto](https://github.com/martacanirome4/DarkMatter_ML_TFG)
-
-> ¡Aprendiendo sobre el universo mientras entreno modelos! 🤯🌌
 
 ---
 
