@@ -47,7 +47,7 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 ## 💻 Otros proyectos que me encantan
 
 - 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → App emocional musical con análisis facial y recomendaciones Spotify.
-- 📚 [TutorMe](https://github.com/XMoraP/tutorMe) → Plataforma para conectar tutores y estudiantes.
+- 📚 [UniConnect](https://github.com/XMoraP/uniconnect) → Plataforma web de colaboración académica entre estudiantes.
 
 ---
 
