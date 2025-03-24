@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso;Fan+del+ML,+el+código+y+el+Universo&center=true&width=500&height=45" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="180" alt="galaxy gif" />
+</div>
+
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
 ### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
