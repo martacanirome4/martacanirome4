@@ -1,6 +1,6 @@
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
-### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología, las playlists y el universo
+### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
