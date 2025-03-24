@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
 </div>
-</br>
 
-Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**.
+Soy estudiante de **Ingeniería Informática** en España 🇪🇸 con interés en **desarrollo de software, machine learning** y una pizca de **astrofísica**.  
+Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**. 🌌🛰️
 
 ---
 
@@ -29,18 +29,28 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
 </div>
 
 ---
 
-## 📂 Proyectos que me molan
+## 📂 Proyectos Destacados
 
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) → Autómata celular en Java con Montecarlo.
-- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → API musical con Spotify, OpenAI y MongoDB.
-- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicción comestibilidad de setas con ML.
-- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → Comunicación IPC, Sockets y más.
+- 🛰️ [**DarkMatter_ML_TFG**](https://github.com/martacanirome4/DarkMatter_ML_TFG)  
+TFG: Machine Learning + Anomalías para detectar materia oscura en datos Fermi-LAT (NASA).  
+Temas: ML, ciencia de datos, astrofísica, Python.
+
+- 🎧 [**MusicHub**](https://github.com/martacanirome4/MusicHub)  
+API musical con integración Spotify, OpenAI, MongoDB y UI inspirada en Spotify.
+
+- 🔌 [**DistributedDevHub**](https://github.com/martacanirome4/DistributedDevHub)  
+IPC con pipes, sockets TCP/UDP, TDD y sistemas distribuidos en C/Linux.
+
+- 🧠 [**Mushroom Predictor**](https://github.com/martacanirome4/MushroomEdibilityPredictor)  
+Predicción de comestibilidad de setas con modelos de aprendizaje automático (Weka + Java).
 
 ---
 
