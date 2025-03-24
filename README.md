@@ -46,7 +46,6 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 
 ## 💻 Otros proyectos que me encantan
 
-- 🌐 [UniConnect](https://github.com/XMoraP/uniconnect) → Plataforma web de colaboración académica entre estudiantes.
 - 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → App emocional musical con análisis facial y recomendaciones Spotify.
 - 📚 [TutorMe](https://github.com/XMoraP/tutorMe) → Plataforma para conectar tutores y estudiantes.
 
@@ -77,3 +76,14 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 🧩 Otros Proyectos Interesantes
+
+- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Autómata celular en Java con visualización y Montecarlo.
+- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementación de Fibonacci, Mochila y Distancia de Edición.
+- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Resolución lógica de Sudoku 4x4 en Prolog.
+- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Implementación de grafos con HashMap + BFS.
+
+---
