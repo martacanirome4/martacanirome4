@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso&center=true&width=500&height=45" alt="Typing SVG" />
 </div>
-
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
 ### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
@@ -9,6 +8,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
 </div>
+
+</br>
 
 Soy estudiante de **Ingeniería Informática** en España 🇪🇸 con interés en **desarrollo de software, machine learning** y mucho más.  
 Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**. 🌌🛰️
