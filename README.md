@@ -1,19 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso&center=true&width=500&height=45" alt="Typing SVG" />
-</div>
-
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
-### 🚀 Ingeniera informática en potencia | Exploradora del código
+### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología, las playlists y el universo
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="170" alt="code gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
 </div>
 
-</br>
+---
 
-Soy estudiante de **Ingeniería Informática** en España 🇪🇸 con interés en **desarrollo de software, machine learning** y mucho más.  
-Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**. 🌌🛰️
+Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**.
 
 ---
 
@@ -28,35 +23,32 @@ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**. 
 
 ## 🛠️ Tecnologías que manejo
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-</div>
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 📂 Proyectos Destacados
 
-- 🛰️ [**DarkMatter_ML_TFG**](https://github.com/martacanirome4/DarkMatter_ML_TFG)  
-TFG: Machine Learning + Anomalías para detectar materia oscura en datos Fermi-LAT (NASA).  
-Temas: ML, ciencia de datos, astrofísica, Python.
+- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → API musical con Spotify, OpenAI y MongoDB.
+- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicción comestibilidad de setas con ML.
+- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) → Autómata celular en Java con Montecarlo.
+- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → Comunicación IPC, Sockets y TDD.
 
-- 🎧 [**MusicHub**](https://github.com/martacanirome4/MusicHub)  
-API musical con integración Spotify, OpenAI, MongoDB y UI inspirada en Spotify.
+---
 
-- 🔌 [**DistributedDevHub**](https://github.com/martacanirome4/DistributedDevHub)  
-IPC con pipes, sockets TCP/UDP, TDD y sistemas distribuidos en C/Linux.
+## 💻 Otros proyectos que me encantan
 
-- 🧠 [**Mushroom Predictor**](https://github.com/martacanirome4/MushroomEdibilityPredictor)  
-Predicción de comestibilidad de setas con modelos de aprendizaje automático (Weka + Java).
+- 🌐 [UniConnect](https://github.com/XMoraP/uniconnect) → Plataforma web de colaboración académica entre estudiantes.
+- 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → App emocional musical con análisis facial y recomendaciones Spotify.
+- 📚 [TutorMe](https://github.com/XMoraP/tutorMe) → Plataforma para conectar tutores y estudiantes.
 
 ---
 
@@ -84,13 +76,4 @@ Predicción de comestibilidad de setas con modelos de aprendizaje automático (W
   <a href="https://open.spotify.com/user/1137579380?si=c1fb28a10d12430f" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-</div>---
-
-## 🧩 Otros Proyectos Interesantes
-
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Autómata celular en Java con visualización y Montecarlo.
-- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementación de Fibonacci, Mochila y Distancia de Edición.
-- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Resolución lógica de Sudoku 4x4 en Prolog.
-- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Implementación de grafos con HashMap + BFS.
-
----
+</div>
