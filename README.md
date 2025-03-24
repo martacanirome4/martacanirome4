@@ -1,6 +1,6 @@
-# 🎧 ¡Hola, soy Marta! 👩‍💻
+# 🎧 Hi there, I'm Marta! 👩‍💻
 
-### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
+### 🚀 Computer Engineering Student | Code Explorer | Tech & Universe Enthusiast
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
@@ -8,20 +8,21 @@
 
 ---
 
-Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial interés en el desarrollo de software, aprendizaje automático y mucho más... 🌌✨ Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**.
+I'm a Computer Engineering student based in Spain 🇪🇸 with a strong passion for software development, machine learning, and all things tech... 🌌✨  
+Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Machine Learning**.
 
 ---
 
-## 🎯 Lo que estoy creando ahora
+## 🎯 What I'm currently building
 
-🛰️ **TFG – Detección de Materia Oscura en Datos del Telescopio Fermi-LAT**  
-→ Identificación de fuentes no clasificadas (UNIDs) como posibles candidatos a materia oscura usando **ML supervisado + detección de anomalías**.  
-→ Dataset: **NASA Fermi-LAT**. Temas: **ciencia de datos, astrofísica, ML, Python**.  
-🔗 [Ver proyecto](https://github.com/martacanirome4/DarkMatter_ML_TFG)
+🛰️ **Thesis – Dark Matter Detection in Fermi-LAT Telescope Data**  
+→ Identifying unclassified sources (UNIDs) as potential dark matter candidates using **supervised ML + anomaly detection**.  
+→ Dataset: **NASA Fermi-LAT**. Topics: **data science, astrophysics, ML, Python**.  
+🔗 [View project](https://github.com/martacanirome4/DarkMatter_ML_TFG)
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Technologies I work with
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,19 +36,19 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → API musical con Spotify, OpenAI y MongoDB.
-- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicción comestibilidad de setas con ML.
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) → Autómata celular en Java con Montecarlo.
-- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → Comunicación IPC, Sockets y TDD.
+- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
+- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
+- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) → Java cellular automaton with Monte Carlo simulation.
+- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
 
 ---
 
-## 💻 Otros proyectos que me encantan
+## 💻 Other Projects I Love
 
-- 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → App emocional musical con análisis facial y recomendaciones Spotify.
-- 📚 [UniConnect](https://github.com/XMoraP/uniconnect) → Plataforma web de colaboración académica entre estudiantes.
+- 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → Emotional music app with facial analysis and Spotify recommendations.
+- 📚 [UniConnect](https://github.com/XMoraP/uniconnect) → Web platform for academic collaboration between students.
 
 ---
 
@@ -60,7 +61,7 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/martacaninoromero/" target="_blank">
@@ -79,11 +80,14 @@ Soy estudiante de Ingeniería Informática en España 🇪🇸 con especial inte
 
 ---
 
-## 🧩 Otros Proyectos Interesantes
+## 🧩 Other Cool Projects
 
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Autómata celular en Java con visualización y Montecarlo.
-- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementación de Fibonacci, Mochila y Distancia de Edición.
-- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Resolución lógica de Sudoku 4x4 en Prolog.
-- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Implementación de grafos con HashMap + BFS.
+- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Cellular automaton in Java with visualization and Monte Carlo.
+- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementations of Fibonacci, Knapsack, Edit Distance.
+- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Logic-based 4x4 Sudoku solver in Prolog.
+- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Graph implementation with HashMap + BFS.
 
 ---
+
+> _“Somewhere, something incredible is waiting to be known.”_  
+> — **Carl Sagan** 🌠
