@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso&center=true&width=500&height=45" alt="Typing SVG" />
 </div>
+
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
-### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
+### 🚀 Ingeniera informática en potencia | Exploradora del código
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="170" alt="code gif" />
 </div>
 
 </br>
