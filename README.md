@@ -1,12 +1,12 @@
 # 🎧 ¡Hola, soy Marta! 👩‍💻
 
-### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología, las playlists y el universo
+### 🚀 Ingeniera informática en potencia | Exploradora del código | Amante de la tecnología y el universo
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
 </div>
 
-Soy estudiante de **Ingeniería Informática** en España 🇪🇸 con interés en **desarrollo de software, machine learning** y una pizca de **astrofísica**.  
+Soy estudiante de **Ingeniería Informática** en España 🇪🇸 con interés en **desarrollo de software, machine learning** y mucho más.  
 Actualmente trabajando en mi **TFG sobre Detección de Materia Oscura con ML**. 🌌🛰️
 
 ---
@@ -78,4 +78,13 @@ Predicción de comestibilidad de setas con modelos de aprendizaje automático (W
   <a href="https://open.spotify.com/user/1137579380?si=c1fb28a10d12430f" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-</div>
+</div>---
+
+## 🧩 Otros Proyectos Interesantes
+
+- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Autómata celular en Java con visualización y Montecarlo.
+- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementación de Fibonacci, Mochila y Distancia de Edición.
+- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Resolución lógica de Sudoku 4x4 en Prolog.
+- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Implementación de grafos con HashMap + BFS.
+
+---
