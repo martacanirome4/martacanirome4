@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso;Fan+del+ML,+el+código+y+el+Universo&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+soy+Marta;Ingeniera+informática+en+proceso&center=true&width=500&height=45" alt="Typing SVG" />
 </div>
 
 # 🎧 ¡Hola, soy Marta! 👩‍💻
