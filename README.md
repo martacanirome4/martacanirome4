@@ -40,7 +40,6 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) → Java cellular automaton with Monte Carlo simulation.
 - 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
 
 ---
