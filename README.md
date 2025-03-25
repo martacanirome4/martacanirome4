@@ -82,8 +82,8 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 ## 🧩 Other Cool Projects
 
 - 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Cellular automaton in Java with visualization and Monte Carlo.
-- 🧮 [Dynamic Programming](https://github.com/martacanirome4/DynamicProgramming_Algorithms) – Implementations of Fibonacci, Knapsack, Edit Distance.
-- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/SudokuSolver_Prolog) – Logic-based 4x4 Sudoku solver in Prolog.
+- 🧮 [Dynamic Programming](https://github.com/martacanirome4/tecnicasAlgoritmicas) – Implementations of Fibonacci, Knapsack, Edit Distance.
+- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/sudoku_solver) – Logic-based 4x4 Sudoku solver in Prolog.
 - 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Graph implementation with HashMap + BFS.
 
 ---
