@@ -25,6 +25,15 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
+## Featured Projects
+
+- 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee engine match based on keywords (🏆 won the Inditex Tech Challenge 2025).
+- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
+- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
+- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
+
+---
+
 ## Technologies I work with
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -36,15 +45,6 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Featured Projects
-
-- 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee engine match based on keywords (🏆 won the Inditex Tech Challenge 2025).
-- 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
-- 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
-- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
 
 ---
 
