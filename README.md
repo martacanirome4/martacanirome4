@@ -11,6 +11,9 @@
 I'm a Computer Engineering student based in Spain with a strong passion for software development, machine learning, and all things tech... 
 Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Machine Learning**.
 
+> _“Somewhere, something incredible is waiting to be known.”_  
+> — **Carl Sagan** 🌠
+
 ---
 
 ## What I'm currently building
@@ -41,16 +44,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 - 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee engine match based on keywords (🏆 won the Inditex Tech Challenge 2025).
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
 - 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
-- - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&layout=compact&theme=radical&hide_border=false" height="150" />
-</div>
+- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
 
 ---
 
@@ -73,5 +67,9 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-> _“Somewhere, something incredible is waiting to be known.”_  
-> — **Carl Sagan** 🌠
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&layout=compact&theme=radical&hide_border=false" height="150" />
+</div>
