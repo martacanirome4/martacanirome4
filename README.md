@@ -48,6 +48,15 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&layout=compact&theme=radical&hide_border=false" height="150" />
+</div>
+
+---
+
 ## Connect with me!
 
 <div align="left">
@@ -57,19 +66,11 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
   <a href="https://medium.com/@martacanirome" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/martacaninorome1" target="_blank">
+  <!a href="https://www.hackerrank.com/profile/martacaninorome1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+  </a-->
   <a href="https://open.spotify.com/user/1137579380?si=c1fb28a10d12430f" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&layout=compact&theme=radical&hide_border=false" height="150" />
-</div>
