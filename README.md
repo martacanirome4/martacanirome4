@@ -23,7 +23,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ## Featured Projects
 
-- 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee engine match based on keywords (🏆 won the Inditex Tech Challenge 2025).
+- 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee match engine based on keywords - IF (🏆 won the Inditex Tech Challenge 2025).
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
 - 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
 - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
