@@ -1,4 +1,4 @@
-# Hi there, I'm Marta! 👩‍💻
+# Hi there, I'm Marta! 👩‍💻🌌✨ 
 
 ### 🚀 Final-year Computer-Engineering student · Python & ML · building data products that scale
 
@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Computer Engineering student based in Spain 🇪🇸 with a strong passion for software development, machine learning, and all things tech... 🌌✨  
+I'm a Computer Engineering student based in Spain with a strong passion for software development, machine learning, and all things tech... 
 Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Machine Learning**.
 
 ---
@@ -36,7 +36,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
@@ -44,14 +44,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 💻 Other Projects I Love
-
-- 🎵 [Moodify](https://github.com/MyriamFigueroa1/Moodify) → Emotional music app with facial analysis and Spotify recommendations.
-- 📚 [UniConnect](https://github.com/XMoraP/uniconnect) → Web platform for academic collaboration between students.
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
@@ -60,7 +53,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 🌐 Connect with me
+## Connect with me!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/martacaninoromero/" target="_blank">
@@ -79,7 +72,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 🧩 Other Cool Projects
+## Other Cool Projects
 
 - 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Cellular automaton in Java with visualization and Monte Carlo.
 - 🧮 [Dynamic Programming](https://github.com/martacanirome4/tecnicasAlgoritmicas) – Implementations of Fibonacci, Knapsack, Edit Distance.
