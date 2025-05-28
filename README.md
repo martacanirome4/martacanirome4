@@ -38,9 +38,10 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ## Featured Projects
 
-- 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
+- 👘 [Inditex Talent-Match](https://github.com/martacanirome4/Grafo) – vacancy-employee engine match based on keywords (🏆 won the Inditex Tech Challenge 2025).
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
 - 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
+- - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
 
 ---
 
@@ -69,15 +70,6 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
-
----
-
-## Other Cool Projects
-
-- 🎮 [TheGameOfLife](https://github.com/martacanirome4/TheGameOfLife) – Cellular automaton in Java with visualization and Monte Carlo.
-- 🧮 [Dynamic Programming](https://github.com/martacanirome4/tecnicasAlgoritmicas) – Implementations of Fibonacci, Knapsack, Edit Distance.
-- 🧩 [Sudoku Solver Prolog](https://github.com/martacanirome4/sudoku_solver) – Logic-based 4x4 Sudoku solver in Prolog.
-- 🕸️ [Graph Project](https://github.com/martacanirome4/Grafo) – Graph implementation with HashMap + BFS.
 
 ---
 
