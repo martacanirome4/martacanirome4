@@ -1,6 +1,6 @@
-# 🎧 Hi there, I'm Marta! 👩‍💻
+# Hi there, I'm Marta! 👩‍💻
 
-### 🚀 Computer Engineering Student | Code Explorer | Tech & Universe Enthusiast
+### 🚀 Final-year Computer-Engineering student · Python & ML · building data products that scale
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
@@ -13,7 +13,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 🎯 What I'm currently building
+## What I'm currently building
 
 🛰️ **Thesis – Dark Matter Detection in Fermi-LAT Telescope Data**  
 → Identifying unclassified sources (UNIDs) as potential dark matter candidates using **supervised ML + anomaly detection**.  
@@ -22,7 +22,7 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 
 ---
 
-## 🛠️ Technologies I work with
+## Technologies I work with
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
