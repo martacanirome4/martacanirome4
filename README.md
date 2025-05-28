@@ -2,10 +2,6 @@
 
 ### 🚀 Final-year Computer-Engineering student · Python & ML · building data products that scale
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
-</div>
-
 ---
 
 I'm a Computer Engineering student based in Spain with a strong passion for software development, machine learning, and all things tech... 
@@ -31,6 +27,11 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 - 🍄 [Mushroom Predictor](https://github.com/martacanirome4/MushroomEdibilityPredictor) → Predicting mushroom edibility using ML.
 - 🔌 [DistributedDevHub](https://github.com/martacanirome4/DistributedDevHub) → IPC, Sockets, and TDD-based communication.
 - 🎧 [MusicHub](https://github.com/martacanirome4/MusicHub) → Music API using Spotify, OpenAI, and MongoDB.
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="code gif" />
+</div>
 
 ---
 
