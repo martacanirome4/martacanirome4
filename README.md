@@ -66,11 +66,8 @@ Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Mac
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
-## GitHub Stats
-
-<div align="center">
+<!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martacanirome4&show_icons=true&theme=radical&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martacanirome4&layout=compact&theme=radical&hide_border=false" height="150" />
-</div>
+</div-->
