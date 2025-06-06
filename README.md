@@ -1,6 +1,6 @@
-# Hi there, I'm Marta! 👩‍💻🌌✨ 
+# Hi there, I'm Marta! 👩‍💻 🌌
 
-### 🚀 Final-year Computer-Engineering student · Python & ML · building data products that scale
+### Final-year Computer-Engineering student · Python & ML · building data products that scale
 
 ---
 
@@ -8,13 +8,13 @@ I'm a Computer Engineering student based in Spain with a strong passion for soft
 Currently working on my **Bachelor’s Thesis on Dark Matter Detection using Machine Learning**.
 
 > _“Somewhere, something incredible is waiting to be known.”_  
-> — **Carl Sagan** 🌠
+> — **Carl Sagan** 
 
 ---
 
-## What I'm currently building
+## What I'm currently building 🛰️
 
-🛰️ **Thesis – Dark Matter Detection in Fermi-LAT Telescope Data**  
+**Thesis – Dark Matter Detection in Fermi-LAT Telescope Data**  
 → Identifying unclassified sources (UNIDs) as potential dark matter candidates using **supervised ML + anomaly detection**.  
 → Dataset: **NASA Fermi-LAT**. Topics: **data science, astrophysics, ML, Python**.  
 🔗 [View project](https://github.com/martacanirome4/DarkMatter_ML_TFG)
