@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Página-1" id="yXQRgfGHr2Ya33pxA507">
-    <mxGraphModel>
+    <mxGraphModel dx="930" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FbvhG1dzDdAZWPgDk729-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="22.650000000000002" height="49.975" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-2" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.citrix_remote_pc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="42.455" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-3" value="R1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-4" value="R2" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-5" value="192.168.1.0/24" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141.23" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-6" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FbvhG1dzDdAZWPgDk729-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
