@@ -1,6 +1,6 @@
 # Hola, soy Marta 👋
 
-**Ingeniera de Datos e IA · Python · Pipelines & ML en producción**
+**Ingeniera Informática · Python · Interés en ML, Data e IA**
 
 Me interesa construir productos de datos de extremo a extremo: ingesta → transformación → calidad → features → modelo → serving → visualización. Experiencia previa en banca/regtech y proyectos de matching de talento.
 
