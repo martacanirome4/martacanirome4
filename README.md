@@ -17,7 +17,7 @@ Orquestación de ingesta y transformaciones con **Prefect**, modelado analítico
 
 ## Proyectos destacados
 
-- 👘 **Inditex Talent-Match (refinado público)** — motor de ranking candidato–oferta (TF-IDF + reglas).  
+- 👘 **Inditex Talent-Match** — motor de ranking candidato–oferta (TF-IDF + reglas).  
   [Repo](https://github.com/martacanirome4/talent-match-refined) · 🏆 Inditex Tech Challenge 2025 (equipo ganador)
 
 - 🛰️ **TFG — Detección de Materia Oscura con ML (Fermi-LAT)** — clasificación y anomalía en astrofísica de rayos gamma.  
