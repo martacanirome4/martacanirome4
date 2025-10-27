@@ -7,14 +7,6 @@
 
 ---
 
-## Lo que estoy construyendo ahora
-
-**`taxi-de-pipelines` — pipeline analítico reproducible (NYC Taxi / Madrid Open Data)**  
-Orquestación de ingesta y transformaciones con **Prefect**, modelado analítico con **dbt**, **pruebas de datos** con Great Expectations y **almacenamiento** en DuckDB. Incluye dashboard ligero y CI.  
-→ Repositorio: *(próximamente)*
-
----
-
 ## Proyectos destacados
 
 - 👘 **Inditex Talent-Match** — motor de ranking candidato–oferta (TF-IDF + reglas).  
